@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wzgcoder.templatedemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wzgcoder.templatedemo.MyBundle
 
 class MyApplicationService {
 
